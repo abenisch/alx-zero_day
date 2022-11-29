@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1669006927,,"wq"
+|2,0,1669705861,,"wq"
 :q
-|2,0,1669005464,,"q"
+|2,0,1669705858,,"q"
 :w
 |2,0,1669005137,,"w"
 
@@ -27,33 +27,41 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+""1	CHAR	0
+	
+	
+|3,1,1,0,2,0,1669705830,"",""
+"2	LINE	0
 	idvfgvhdjkyadbhvgavhdvbhb
-|3,1,1,1,1,0,1669005457,"idvfgvhdjkyadbhvgavhdvbhb"
+|3,0,2,1,1,0,1669005457,"idvfgvhdjkyadbhvgavhdvbhb"
 
 # File marks:
-'0  1  6  ~/0x02_emacs/saving
-|4,48,1,6,1669006927,"~/0x02_emacs/saving"
-'1  1  6  ~/0x02_emacs/opening
-|4,49,1,6,1669006884,"~/0x02_emacs/opening"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1669705861,"~/.git/MERGE_MSG"
+'1  1  6  ~/0x02_emacs/saving
+|4,49,1,6,1669006927,"~/0x02_emacs/saving"
 '2  1  6  ~/0x02_emacs/opening
-|4,50,1,6,1669006719,"~/0x02_emacs/opening"
-'3  1  0  ~/0x03_vi/lol
-|4,51,1,0,1669005466,"~/0x03_vi/lol"
-'4  1  0  ~/0x03_vi/cutting
-|4,52,1,0,1669005433,"~/0x03_vi/cutting"
-'5  1  1  ~/0x03_vi/lol
-|4,53,1,1,1669005410,"~/0x03_vi/lol"
-'6  1  0  ~/0x03_vi/end_of_the_line
-|4,54,1,0,1669005286,"~/0x03_vi/end_of_the_line"
-'7  1  0  ~/0x03_vi/beginning_of_the_line
-|4,55,1,0,1669005259,"~/0x03_vi/beginning_of_the_line"
-'8  1  0  ~/0x03_vi/undoing
-|4,56,1,0,1669005141,"~/0x03_vi/undoing"
-'9  1  0  ~/0x03_vi/cutting
-|4,57,1,0,1669005126,"~/0x03_vi/cutting"
+|4,50,1,6,1669006884,"~/0x02_emacs/opening"
+'3  1  6  ~/0x02_emacs/opening
+|4,51,1,6,1669006719,"~/0x02_emacs/opening"
+'4  1  0  ~/0x03_vi/lol
+|4,52,1,0,1669005466,"~/0x03_vi/lol"
+'5  1  0  ~/0x03_vi/cutting
+|4,53,1,0,1669005433,"~/0x03_vi/cutting"
+'6  1  1  ~/0x03_vi/lol
+|4,54,1,1,1669005410,"~/0x03_vi/lol"
+'7  1  0  ~/0x03_vi/end_of_the_line
+|4,55,1,0,1669005286,"~/0x03_vi/end_of_the_line"
+'8  1  0  ~/0x03_vi/beginning_of_the_line
+|4,56,1,0,1669005259,"~/0x03_vi/beginning_of_the_line"
+'9  1  0  ~/0x03_vi/undoing
+|4,57,1,0,1669005141,"~/0x03_vi/undoing"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1669705861,"~/.git/MERGE_MSG"
+-'  1  6  ~/0x02_emacs/saving
+|4,39,1,6,1669006927,"~/0x02_emacs/saving"
 -'  1  6  ~/0x02_emacs/saving
 |4,39,1,6,1669006927,"~/0x02_emacs/saving"
 -'  1  6  ~/0x02_emacs/opening
@@ -61,6 +69,14 @@
 -'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1669006884,"~/0x02_emacs/opening"
 -'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1669006884,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1669006884,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1669006719,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1669006719,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1669006719,"~/0x02_emacs/opening"
 -'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1669006719,"~/0x02_emacs/opening"
@@ -80,6 +96,54 @@
 |4,39,1,0,1669005466,"~/0x03_vi/lol"
 -'  1  0  ~/0x03_vi/lol
 |4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/lol
+|4,39,1,0,1669005466,"~/0x03_vi/lol"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
+-'  1  0  ~/0x03_vi/cutting
+|4,39,1,0,1669005433,"~/0x03_vi/cutting"
 -'  1  0  ~/0x03_vi/cutting
 |4,39,1,0,1669005433,"~/0x03_vi/cutting"
 -'  1  0  ~/0x03_vi/cutting
@@ -144,98 +208,38 @@
 |4,39,1,1,1669005410,"~/0x03_vi/lol"
 -'  1  1  ~/0x03_vi/lol
 |4,39,1,1,1669005410,"~/0x03_vi/lol"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
+-'  1  1  ~/0x03_vi/lol
+|4,39,1,1,1669005410,"~/0x03_vi/lol"
 -'  1  0  ~/0x03_vi/end_of_the_line
 |4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
 -'  1  0  ~/0x03_vi/end_of_the_line
@@ -256,6 +260,14 @@
 |4,39,1,0,1669005286,"~/0x03_vi/end_of_the_line"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1669705858	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	73
+	+	1	0
 
 > ~/0x02_emacs/saving
 	*	1669006926	0
